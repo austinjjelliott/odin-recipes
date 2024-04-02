@@ -3,15 +3,38 @@
     font-size: 50px;
     font-family: fantasy, sans-serif;
 }
+body {
+    background-image: url(https://cdn.britannica.com/36/123536-050-95CB0C6E/Variety-fruits-vegetables.jpg);
+
+}
 h1 {
     font-size: 100px;
-    color: rgb(81, 106, 44);
+    color: rgb(100, 0, 5);
     font-weight: bold;
+}
+.homepagebackground {
+    background-color: rgba(250,200,199,0.6)
 }
 ul {
     background-color: rgb(184, 184, 229);
     font-size: 50px;
     list-style-type: none;
+}
+.homepage {
+    display: block;
+    padding: 20px;
+    border: 10px dotted red;
+    height: 150px;
+    width: auto;
+    border-radius: 80%;
+    box-sizing: border-box;
+}
+.list {
+    display: inline-block;
+    padding: 10px;
+}
+button :hover {
+    background-color: teal;
 }
 h3 {
     background-color: rgb(179, 131, 224);
@@ -26,3 +49,4 @@ p {
 ol {
     background-color: rgb(213, 125, 125);
 }
+
