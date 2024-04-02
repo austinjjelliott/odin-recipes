@@ -49,4 +49,9 @@ p {
 ol {
     background-color: rgb(213, 125, 125);
 }
+.steps{
+    width: 1200px;
+    margin: 0 auto;
+
+}
 

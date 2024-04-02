@@ -8,3 +8,4 @@ Heading back in in order to add random CSS.
 Wish me more luck ... 
 
 Third time going in to play with the box values... changed the homepage box properties  (margin, padding, border) only. 
+Added margin of 0 auto to my steps lists to help better align the numbers onto the background color
